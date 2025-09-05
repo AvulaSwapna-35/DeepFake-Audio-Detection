@@ -1,1 +1,1 @@
-# DeepFake-Audio-Detection
+This project focuses on detecting AI-generated (deepfake) audio using machine learning and signal processing techniques. With the rise of synthetic voices and voice cloning, detecting manipulated audio has become crucial for security, privacy, and authenticity verification.
